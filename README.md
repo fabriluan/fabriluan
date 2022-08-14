@@ -6,7 +6,7 @@
 
 ![Fabricio GitHub stats](https://github-readme-stats.vercel.app/api?username=fabriluan&show_icons=true&theme=radical)
 
-### Tecnologias usadas:
+### 💻 Skills:
 
 <div style="display: inline-block">
 </br>
